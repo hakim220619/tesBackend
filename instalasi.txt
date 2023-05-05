@@ -1,0 +1,4 @@
+1. git clone https://github.com/hakim220619/tesBackend.git
+2. import database tesbackend.sql
+3. php artisan optimize
+4. php artisan serve
